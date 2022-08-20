@@ -1,0 +1,13 @@
+.img-responsive {
+    height: 100%;
+    max-height: 500px;
+    width: auto;
+    position: absolute;
+    top:0 px;
+    text-align: center;
+    z-index: -4;
+} 
+
+#game {
+    z-index: -3;
+}
