@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#rocket-technologies">Roadman of future improvements</a> &#xa0; | &#xa0;
+  <a href="#rocket-Roadmap">Roadmap of future improvements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">How to run</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/GaferCarla" target="_blank">Author</a>
@@ -56,7 +56,7 @@ A button "Stop game" has been included to stop the movement of the Pacmen.
 
 
 
-## :rocket: Technologies ##
+## :rocket: Roadmap of future improvements ##
 
 It is planned to add a button to restart the game because the only way to do it is to restart the browser
 
