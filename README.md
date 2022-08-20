@@ -1,81 +1,81 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Pacman" />
+  <img src="./.github/app.gif" alt="Pacmen" />
 
   &#xa0;
 
-  <!-- <a href="https://pacman.netlify.app">Demo</a> -->
+  <!-- <a href="https://Pacmen.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Pacman</h1>
+<h1 align="center">Pacmen</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/GaferCarla/Pacmen?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/GaferCarla/Pacmen?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GaferCarla/Pacmen?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/GaferCarla/Pacmen?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/GaferCarla/Pacmen?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/GaferCarla/Pacmen?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/pacman?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/GaferCarla/Pacmen?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Pacman 🚀 Under construction...  🚧
+	🚧  Pacmen 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Roadman of future improvements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">How to run</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/GaferCarla" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+Excercise for 7th week from Full Stack Development with MERN´s curse.
 
-## :sparkles: Features ##
+This activity contains a button called "ADD Pacmen" that add a div with the Pacmen´s frame inside at a random position. Infinite Pacmens can be added before and after starting the function to starting the game with the button "Star Game".
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Upon starting the game, Pacmen will scroll horizontally and vertically across the screen, changing direction and alternating frames for the mouth opening animation.
+
+A button "Stop game" has been included to stop the movement of the Pacmen.
+
+
+
+
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+It is planned to add a button to restart the game because the only way to do it is to restart the browser
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## :checkered_flag: How to run ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+To view the PacMen factory in action, visit <a href="https://gafercarla.github.io/Pacmen/">here<a>.
+
+
+To modify the files or add them to your own site, download/clone the repository. All contents within the repository are required for the software to function.
+
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/pacman
+$ git clone https://github.com/GaferCarla/Pacmen
 
 # Access
-$ cd pacman
+$ cd Pacmen
 
 # Install dependencies
 $ yarn
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/GaferCarla" target="_blank">{{YOUR_NAME}}</a>
 
 &#xa0;
 
