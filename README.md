@@ -7,6 +7,7 @@
 </div>
 
 <h1 align="center">Pacmen</h1>
+<img src="./images/pacman.gif" style="display: block; margin: auto; width:50% " align="center">
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/GaferCarla/Pacmen?color=56BEB8">
@@ -63,6 +64,9 @@ It is planned to add a button to restart the game because the only way to do it 
 
 ## :checkered_flag: How to run ##
 
+Press the "Add PacMan" button to increase the figures of the PacMan.
+Press the "Play" button to move the pacman across the screen.
+If you want to stop the game, press "Stop"
 
 To view the PacMen factory in action, visit <a href="https://gafercarla.github.io/Pacmen/">here<a>.
 
